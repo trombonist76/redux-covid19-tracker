@@ -18,8 +18,6 @@ You may also see any lint errors in the console.
 
 I coded this project to improve myself on redux and state management.
 
-You can type markdown and preview it.
-
 ## Images From Project
 
 ![Image 1](/images/1.png?raw=true "First")
