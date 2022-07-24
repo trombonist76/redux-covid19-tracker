@@ -6,6 +6,10 @@ This project is a "Covid19 Tracker" developed with reactjs
 
 In the project directory, you can run:
 
+### Demo
+
+[Netlify](https://c2019tracker.netlify.app/)
+
 ### `npm start`
 
 Runs the app in the development mode.\
